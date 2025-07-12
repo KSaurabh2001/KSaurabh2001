@@ -1,26 +1,30 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
-<h3 align="center">Data Analyst – Business Intelligence & Automation | Java Backend Developer</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | Enterprise Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=08F7FE&center=true&vCenter=true&width=435&lines=Java+%7C+Spring+Boot+%7C+SQL+%7C+Power+BI+%7C+Python;Data+Visualization+%7C+Automation+%7C+Dashboards;ETL+Pipelines+%7C+APIs+%7C+Full+Stack+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=08F7FE&center=true&vCenter=true&width=435&lines=Java+%7C+Spring+Boot+%7C+REST+API+%7C+MySQL+%7C+JWT;Microservices+Architecture+%7C+JPA+%7C+RBAC+Security;Billing+Automation+%7C+Compliance+Tracking+%7C+Audit+Reports" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🔍 About Me
 
-- 💼 Data Analyst at **EY GDS** with expertise in **Power BI**, **SQL**, **Excel Macros**, and **Python**
-- 🔁 Automated Microsoft SPLA license reporting — saved 9,000+ hours/year in manual effort
-- ⚙️ Built backend services & tools using **Java**, **Spring Boot**, and **REST APIs**
-- 💻 Completed 7 real-world projects — 4 full-stack and 3 backend
-- 📊 Created dashboards for compliance tracking and business insights using Power BI
-- 🏅 Earned EY Bronze Badges in **Data Visualization** and **Data Integration**
+- 💼 Java Backend Developer with expertise in **Spring Boot**, **REST APIs**, and **enterprise application development**
+- 🛠 Built and delivered an **enterprise-grade SPLA license compliance system** for a Microsoft service provider
+- 📈 Helped automate **license tracking, billing**, and **audit reporting** — reducing 1,200+ manual hours annually
+- 🔐 Strong experience in **JWT authentication**, **role-based access**, and **scheduled background jobs**
+- ⚙️ Skilled in building **microservices**, **exportable PDF/Excel reports**, and **compliance rule engines**
 - 📫 Reach me at: **saurabh.kumar20010218@gmail.com**
 
 ---
 
 ### 🧠 Core Skills
 
+- **Java, Spring Boot, Spring Security, JPA, Hibernate**
+- **REST API Development**, **Microservices**, **Role-Based Access Control**
+- **MySQL**, **Apache POI (Excel/PDF Reporting)**
+- **JWT Authentication**, **Spring Scheduler**
+- **Postman**, **Git**, **GitHub**, **Eclipse IDE**
 
 ---
 
@@ -28,59 +32,40 @@
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot)
-![SQL](https://img.shields.io/badge/SQL-025E8C.svg?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811.svg?style=flat&logo=powerbi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346.svg?style=flat&logo=microsoft-excel&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F.svg?style=flat&logo=mysql&logoColor=white)
+![Apache POI](https://img.shields.io/badge/Apache_POI-1D2D50.svg?style=flat&logo=apache&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000.svg?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=flat&logo=github)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat&logo=eclipse&logoColor=white)
 
 ---
 
-### 📁 Highlight Projects
+### 🚀 Featured Project
 
-| Project | Stack | Summary |
-|--------|-------|---------|
-| **BuzzWrite Blog Platform** | Spring Boot, React, MySQL, JWT | Role-based blogging app with search, save posts, dark mode |
-| **Gym Management System** | Spring Boot, Spring Security, React | Multi-role gym platform for owners, handlers, trainers |
-| **Instagram Clone** | Spring Boot, React, Tailwind | Secure social platform with likes/comments/image upload |
-| **SPLA License Automation** | SQL, Python, Excel Macros, Power BI | Automated compliance reports & dashboards at EY |
-| **Expense Tracker API** | Java, Spring Boot, MySQL | REST API to manage expenses & summaries |
-| **E-Voting System** | Spring Boot, MySQL | Voting backend with validation and vote tracking |
-| **Banking Security API** | Spring Boot | Login, activity logs, and secure endpoints |
+#### 🗂️ License Compliance & IT Asset Governance System
+- 📌 **Tech Stack:** Java, Spring Boot, Spring Security, JPA, MySQL, JWT, Apache POI
+- 🧩 Built a backend system to automate SPLA license tracking, monthly billing, and compliance reporting
+- 🧠 Reduced manual data handling by **80%**, saved **1,200+ hours/year**, and improved billing accuracy by **95%+**
+- 🧾 Generated 400+ PDF/Excel invoices and reports monthly with Apache POI
+- 🔐 Implemented JWT-based authentication and RBAC using Spring Security
+- 🕵️ Ensured Microsoft SPLA audit readiness with exportable compliance reports and system-wide audit logs
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saurabh-kumar&show_icons=true&theme=react" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=saurabh-kumar&theme=react" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KSaurabh2001&show_icons=true&theme=react" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=KSaurabh2001&theme=react" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/saurabh-kumar-4b96131b1/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/saurabh-kumar)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/KSaurabh2001)
 
----
-
-
-<!--
-**KSaurabh2001/KSaurabh2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
