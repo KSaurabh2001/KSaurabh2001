@@ -2,7 +2,7 @@
 <h3 align="center">Java Backend Developer | Spring Boot | REST APIs | Enterprise Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=08F7FE&center=true&vCenter=true&width=435&lines=Java+%7C+Spring+Boot+%7C+REST+API+%7C+MySQL+%7C+JWT;Microservices+Architecture+%7C+JPA+%7C+RBAC+Security;Billing+Automation+%7C+Compliance+Tracking+%7C+Audit+Reports" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=08F7FE&center=true&vCenter=true&width=480&lines=Java+Developer+%7C+Spring+Boot+%7C+REST+APIs+%7C+MySQL;Microservices+%7C+JPA+%7C+Spring+Security+%7C+JWT;License+Billing+Engine+%7C+SPLA+Compliance+%7C+Audit+Readiness" alt="Typing SVG" />
 </p>
 
 ---
